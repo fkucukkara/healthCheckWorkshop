@@ -1,0 +1,11 @@
+@healthcheckWorkshop_HostAddress = http://localhost:5237
+
+GET {{healthcheckWorkshop_HostAddress}}/healthz/ready
+Accept: application/json
+
+###
+
+GET {{healthcheckWorkshop_HostAddress}}/healthz/live
+Accept: application/json
+
+###
