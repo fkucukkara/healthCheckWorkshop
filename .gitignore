@@ -5,3 +5,6 @@
 /.vs/healthcheckWorkshop
 /healthcheckWorkshop/bin/Debug/net9.0
 /healthcheckWorkshop/obj
+/.vs/ProjectEvaluation
+/src/healthCheckWorkshop/obj
+/src/healthCheckWorkshop/bin/Debug/net9.0

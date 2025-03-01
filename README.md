@@ -12,7 +12,6 @@ This is a basic .NET Core API implementing health checks using `Microsoft.Extens
 1. Clone the repository:
    ```sh
    git clone https://github.com/fkucukkara/healthCheckWorkshop.git
-   cd <repository-folder>
    ```
 2. Restore dependencies:
    ```sh
